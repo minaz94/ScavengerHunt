@@ -20,10 +20,6 @@ The following **required** functionality is completed:
 
 ![alt-text](ScavengerHunt.gif)
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2024] [Gerasimina Krani]
