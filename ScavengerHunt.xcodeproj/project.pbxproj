@@ -17,7 +17,6 @@
 		3B35E0A12B92A45600C27016 /* ScavengerHuntTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B35E0A02B92A45600C27016 /* ScavengerHuntTableViewCell.swift */; };
 		3B35E0A32B92C10D00C27016 /* ScavengerHuntDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B35E0A22B92C10D00C27016 /* ScavengerHuntDetailViewController.swift */; };
 		3B35E0AA2B92C3C700C27016 /* CustomAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B35E0A92B92C3C700C27016 /* CustomAnnotationView.swift */; };
-		3B35E0AC2B92EF8100C27016 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3B35E0AB2B92EF8100C27016 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		3B35E0A02B92A45600C27016 /* ScavengerHuntTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScavengerHuntTableViewCell.swift; sourceTree = "<group>"; };
 		3B35E0A22B92C10D00C27016 /* ScavengerHuntDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScavengerHuntDetailViewController.swift; sourceTree = "<group>"; };
 		3B35E0A92B92C3C700C27016 /* CustomAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAnnotationView.swift; sourceTree = "<group>"; };
-		3B35E0AB2B92EF8100C27016 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 		3B35E0872B9292A500C27016 /* ScavengerHunt */ = {
 			isa = PBXGroup;
 			children = (
-				3B35E0AB2B92EF8100C27016 /* README.md */,
 				3B35E0A62B92C1F400C27016 /* AppDelegates */,
 				3B35E0A82B92C22300C27016 /* ViewControllers */,
 				3B35E0A42B92C1C600C27016 /* Models */,
@@ -182,7 +179,6 @@
 			files = (
 				3B35E0952B9292A600C27016 /* LaunchScreen.storyboard in Resources */,
 				3B35E0922B9292A600C27016 /* Assets.xcassets in Resources */,
-				3B35E0AC2B92EF8100C27016 /* README.md in Resources */,
 				3B35E0902B9292A500C27016 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
