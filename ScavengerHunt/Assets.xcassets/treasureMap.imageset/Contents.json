@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-treasure-map-jungle-map-black-and-white-illustrati-black-and-white-map-with-jungle-animals-and-boats65c48cd4a1c4f2.9420250517073799246626.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
