@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-
+![alt-text](ScavengerHunt.gif)
 
 ## Notes
 
